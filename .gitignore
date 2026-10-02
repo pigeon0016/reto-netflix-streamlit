@@ -5,4 +5,3 @@ __pycache__/
 test.py
 test_carga_masiva_firestore.py
 test_firestore.py
-convertKeys.py
